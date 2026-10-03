@@ -1,29 +1,31 @@
-# README Studio
+# README Studio 📝
 
-README Studio is a browser-based Markdown README builder with a live GitHub-style preview.
+Build polished GitHub README files with a live preview, starter templates, and Markdown export — entirely in your browser.
 
-## Features
+## ✨ Features
 
+- GitHub-style live preview
 - Project name and tagline
-- Description, installation and usage sections
-- License selector
+- About/description sections
+- Installation and usage sections
+- License selection
 - Starter templates
-- Live preview
-- Download a ready-to-commit `README.md`
-- No backend required
+- Copy Markdown
+- Download `README.md`
+- Responsive, dependency-free UI
 
-## Run locally
+## 🚀 Run locally
 
-Open `index.html` or use any static web server.
+Open `index.html` directly or serve the directory with any static web server.
 
-## Privacy
+## 🔒 Privacy
 
-Your draft stays in the browser.
+Your draft stays in the browser. No account or backend is required.
 
-## Contributing
+## 🤝 Contributing
 
-Fork the repository and submit a pull request with improvements, templates, components, or documentation ideas.
+Templates, Markdown sections, accessibility improvements, and export enhancements are welcome.
 
-## License
+## 📄 License
 
-MIT
+MIT License.
